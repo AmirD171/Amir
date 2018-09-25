@@ -1,6 +1,5 @@
-# Drafting9
-
-## Line 2
-
-### hello
-my name is *Amir*
+| **Acronym** | **Long Form** |
+| ----------- | ----------- |
+| ANSI | American National Standards Institute |
+| CAD | Computer-Aided Drafting |
+| CNC | Computer Numerical Control |
